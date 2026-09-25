@@ -1,0 +1,6 @@
+{
+  "name": "CarbonCart",
+  "description": "Eco-Footprint Tracker: Scan groceries, calculate CO2 impact, and track your carbon journey with CarbonCart.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
